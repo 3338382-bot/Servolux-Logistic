@@ -13,4 +13,4 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Set up JDK
-        uses: actions/setup-java@v
+        uses: actions/setup-java@v4
